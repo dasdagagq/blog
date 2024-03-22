@@ -9,10 +9,6 @@ name_pronunciation: Yong Yang
 first_name: ''
 last_name: ''
 
-# Status emoji
-status: ''
-  icon: ''
-
 # Is this the primary user of the site?
 superuser: true
 
