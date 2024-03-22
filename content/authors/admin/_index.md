@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 杨勇
+title: ABC
 
 # Name pronunciation (optional)
-name_pronunciation: Yong Yang
+name_pronunciation: ABC
 
 # Full name (for SEO)
 first_name: ''
