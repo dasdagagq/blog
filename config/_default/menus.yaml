@@ -5,12 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Research
+  - name: Topic
     url: /
     weight: 20
-  - name: Selected publications
-    url: /
-    weight: 30
-  - name: Teaching
+  - name: User
     url: /
     weight: 30
